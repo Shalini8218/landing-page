@@ -1,0 +1,94 @@
+
+.bg-red{
+    background-color: rgb(232, 76, 76);
+}
+.mx-auto{
+    margin-left: auto;
+    margin-right: auto;
+}
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.items-center{
+    align-items: center;
+}
+.justify-center{
+    justify-content: center;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.font-bold{
+    font-size: 1.5rem;
+    font-weight: bolder;
+}
+.topleft{
+    width: 50%;
+    height: 50vh;
+}
+
+
+.section2{
+    min-width: 80%;
+    height: 60%;
+}
+.my-1{
+    margin: 0px 15px 10px 50px;  
+    /* t,r,b,l */
+}
+.my-2{
+    margin: 0px 10px 18px 20px;
+}
+
+.px-2{
+    padding: 0px 0px 0px 24px;
+}
+.text-clr{ 
+    color:rgba(248, 149, 2, 0.779);
+
+}
+.btn{
+    cursor: pointer;
+    padding: 5px 12px ;
+    /* t-b,r-l */
+    border: 2px solid black;
+    border-radius: 2px;
+    color: white;
+   background-color: rgba(248, 149, 2, 0.779);
+   height: 30px;
+}
+.img{
+    height:400px;
+    width:400px;
+    padding: 12px 5px;
+}
+.text-center{
+    text-align: center;
+}
+.highlighted{
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+.section3{
+    width: 50vw;
+    height: 70vh;
+
+}
+.my-3{
+    width: 200px;
+    margin: 10px 10px 25px 0px;
+    padding-left:400px ;
+    
+}
+section{
+    padding: 20px;
+
+}
+.ft{
+   padding: 20px;
+   text-align: center;
+}
